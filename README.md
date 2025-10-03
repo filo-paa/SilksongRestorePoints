@@ -31,17 +31,19 @@ Highlited the button to revert the chekpoing / auto save"
 
 # == Melodies ==
 * GAINED_MELODY_ARCHITECT = "Learned Architect’s Melody"
-* GAINED_MELODY_BEAST = "Learned Beast Summon Melody" (FAST TRAVEL?)
+* GAINED_MELODY_LIBRARIAN = "Learned Librarian’s Melody" (VAULTKEEPER?)
 * GAINED_MELODY_CONDUCTOR = "Learned Conductor’s Melody"
-* GAINED_MELODY_DEEP = "Learned Deep Elegy Melody"
-* GAINED_MELODY_LIBRARIAN = "Learned Librarian’s Melody" (VAULTKEEPER)
+* /
+* GAINED_MELODY_BEAST = "Learned Beast Summon Melody" (FAST TRAVEL?)
+* GAINED_MELODY_DEEP = "???"
+
 
 
 # == Crests ==
 * GAINED_WANDERER = "Gained Wanderer Crest"
 * GAINED_REAPER = "Gained Reaper Crest"
 * GAINED_WITCH = "Gained Witch Crest"
-* GAINED_BEAST = "Gained Reaper(?) Crest"
+
 * GAINED_TOOMASTER = "Gained Architect Crest"
 * GAINED_SHAMAN = "Gained Shaman Crest"
 
@@ -57,3 +59,4 @@ Highlited the button to revert the chekpoing / auto save"
 * SAVED_BELLHART = "Save Bellhart" (?)
 * SLAB_CAPTURED = "Imprisoned in the Slab Jail / Caged"
 * UNLOCKED_MELODY_LIFT = "Open Cradle Lift"
+* GAINED_BEAST = (fast travel?)
