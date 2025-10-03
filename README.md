@@ -34,8 +34,8 @@ Highlited the button to revert the chekpoing / auto save"
 * GAINED_MELODY_LIBRARIAN = "Learned Librarian’s Melody" (VAULTKEEPER?)
 * GAINED_MELODY_CONDUCTOR = "Learned Conductor’s Melody"
 * /
-* GAINED_MELODY_BEAST = "Learned Beast Summon Melody" (FAST TRAVEL?)
-* GAINED_MELODY_DEEP = "???"
+* GAINED_MELODY_BEAST = "Learned Beast Summon Melody" (Beast FAST TRAVEL?)
+* GAINED_MELODY_DEEP = "Elegy of the Deep" (Act 3)
 
 
 
