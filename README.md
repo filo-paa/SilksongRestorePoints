@@ -8,13 +8,10 @@ ACT_2 = "Act 2 Start"
 ACT_3 = "Act 3 Start"
 
 == Core/Movement Abilities ==
-GAINED_SILKSPEAR = "Learned Silk Spear"
-
-GAINED_SPRINT = "Learned Swift Step"
-
-GAINED_WALLJUMP = "Learned Spider Climb / Cling Grip"
-
-GAINED_HARPOON = "Learned Harpoon Dash" / Clawline(?)
+GAINED_SILKSPEAR = "Learned Silk Spear" \n
+GAINED_SPRINT = "Learned Swift Step" \n
+GAINED_WALLJUMP = "Learned Spider Climb / Cling Grip" \n
+GAINED_HARPOON = "Learned Harpoon Dash" / Clawline(?) \n
 
 GAINED_BROLLY = "Gained Drifter"s Cloak"
 GAINED_NEEDOLIN = "Learned Weaver’s Needle / Needolin" (DEFEAT WIDOW)
