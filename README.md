@@ -6,7 +6,8 @@ The names are translated from Chinese at the best of my knowledge, since some ar
 
 Highlited the button to revert the chekpoing / auto save"
 
-# == Act Start ==
+## Permanent Unlocks
+# == Act Start == 
 * ACT_1 = "Act 1 Start"
 * ACT_2 = "Act 2 Start"
 * ACT_3 = "Act 3 Start"
