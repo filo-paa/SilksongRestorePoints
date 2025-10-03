@@ -9,9 +9,13 @@ ACT_3 = "Act 3 Start"
 
 == Core/Movement Abilities ==
 GAINED_SILKSPEAR = "Learned Silk Spear"
+
 GAINED_SPRINT = "Learned Swift Step"
+
 GAINED_WALLJUMP = "Learned Spider Climb / Cling Grip"
+
 GAINED_HARPOON = "Learned Harpoon Dash" / Clawline(?)
+
 GAINED_BROLLY = "Gained Drifter"s Cloak"
 GAINED_NEEDOLIN = "Learned Weaver’s Needle / Needolin" (DEFEAT WIDOW)
 GAINED_DOUBLE_JUMP = "Gained Faydown Cloak"
