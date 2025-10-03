@@ -3,9 +3,9 @@ The names are translated from Chinese at the best of my knowledge, since some ar
 ![Alt text](sssot.png)
 
 == Act Start ==
-ACT_1 = "Act 1 Start"
-ACT_2 = "Act 2 Start"
-ACT_3 = "Act 3 Start"
+*ACT_1 = "Act 1 Start"
+*ACT_2 = "Act 2 Start"
+*ACT_3 = "Act 3 Start"
 
 == Core/Movement Abilities ==
 * GAINED_SILKSPEAR = "Learned Silk Spear"
