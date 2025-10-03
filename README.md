@@ -50,7 +50,7 @@ Highlited the button to revert the chekpoing / auto save"
 # == True Ending ==
 * GAINED_HEART_BLOOM = "Defeated Nyleth"
 * GAINED_HEART_CLOVER = "Defeated Clover Dancer"
-* GAINED_HEART_CORAL = "Defeated Shell King Kahan"
+* GAINED_HEART_CORAL = "Defeated Crust King Khann"
 * GAINED_HEART_HUNTER = "Defeated Karmelita"
 
 # == Others ==
